@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@wixc3/react-board": "^2.2.0"
+  }
+}
